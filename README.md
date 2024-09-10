@@ -10,6 +10,10 @@ efficient and scalable web solutions. I specialize in building robust REST APIs 
 - 🌐 I am passionate about continuous learning and always keeping up-to-date with the latest backend technologies and 
   best practices.
 - 🤝 Open to collaborating on backend-focused projects, mentoring, and contributing to the tech community.
+
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sefot) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zoranshefot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/martin-karadzinov-3a8087b1)
+
 ## 🔧 Technologies I Work With:
 
 ![PHP](https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php)
@@ -40,6 +44,17 @@ efficient and scalable web solutions. I specialize in building robust REST APIs 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=for-the-badge&logo=graphql)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-333333?style=for-the-badge&logo=websocket)
 ![OAuth](https://img.shields.io/badge/-OAuth-333333?style=for-the-badge&logo=oauth)
+
+![](https://github-readme-stats.vercel.app/api?username=kalimeromk&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=kalimeromk&theme=dracula&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimeromk&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=445&langs_count=8)
+
+
+
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kalimeromk&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 📫 Get in Touch:
 
