@@ -66,3 +66,5 @@ efficient and scalable web solutions. I specialize in building robust REST APIs 
 - Email: zbogoevski@gmail.com
 
 Feel free to connect with me and explore my projects. I'm always open to networking and collaborating on interesting projects. Let's code something awesome together! 🚀
+
+[![](https://visitcount.itsvg.in/api?id=kalimeromk&icon=0&color=6)](https://visitcount.itsvg.in)
