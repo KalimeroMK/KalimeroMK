@@ -24,6 +24,7 @@ efficient and scalable web solutions. I specialize in building robust REST APIs 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3)
+![bootstrap](https://img.shields.io/badge/-BOOTSTRAP-333333?style=for-the-badge&logo=bootstrap)
 ![Git / GitHub](https://img.shields.io/badge/-Git/GitHub-333333?style=for-the-badge&logo=github)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
@@ -44,6 +45,9 @@ efficient and scalable web solutions. I specialize in building robust REST APIs 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=for-the-badge&logo=graphql)
 ![WebSockets](https://img.shields.io/badge/-WebSockets-333333?style=for-the-badge&logo=websocket)
 ![OAuth](https://img.shields.io/badge/-OAuth-333333?style=for-the-badge&logo=oauth)
+![YAML](https://img.shields.io/badge/-YAML-333333?style=for-the-badge&logo=yaml)
+![JSON](https://img.shields.io/badge/-JSON-333333?style=for-the-badge&logo=json)  
+
 
 ![](https://github-readme-stats.vercel.app/api?username=kalimeromk&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kalimeromk&theme=dracula&hide_border=false)
