@@ -2,7 +2,7 @@
 I'm a seasoned and highly motivated backend developer based in Skopje, with over 15 years of experience in creating 
 efficient and scalable web solutions. I specialize in building robust REST APIs and spend the majority of my time working on backend systems. Here’s a little more about me::
 
-- 🎓 With 38 years of life experience, I’ve dedicated over a decade to backend development.
+- 🎓 With 39 years of life experience, I’ve dedicated over a decade to backend development.
 - 💻 My primary focus is on creating RESTFull services using powerful backend technologies.
 - 🌟 Skilled in designing and optimizing databases, server-side logic, and scalable APIs for high-performance 
   applications.
