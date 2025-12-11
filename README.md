@@ -1,70 +1,87 @@
-# Hi there, I'm Zoran Bogoevski ! 👋
-I'm a seasoned and highly motivated backend developer based in Skopje, with over 15 years of experience in creating 
-efficient and scalable web solutions. I specialize in building robust REST APIs and spend the majority of my time working on backend systems. Here’s a little more about me::
+<div align="center">
 
-- 🎓 With 39 years of life experience, I’ve dedicated over a decade to backend development.
-- 💻 My primary focus is on creating RESTFull services using powerful backend technologies.
-- 🌟 Skilled in designing and optimizing databases, server-side logic, and scalable APIs for high-performance 
-  applications.
-- 🔄 Strong expertise in API architecture and ensuring seamless integration across systems.
-- 🌐 I am passionate about continuous learning and always keeping up-to-date with the latest backend technologies and 
-  best practices.
-- 🤝 Open to collaborating on backend-focused projects, mentoring, and contributing to the tech community.
+# Hi there, I'm Zoran Bogoevski! 👋
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Sefot) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zoranshefot) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]( https://www.linkedin.com/in/zoran-bogoevski/)
+### 🚀 Senior Backend Developer | REST API Architect
 
-## 🔧 Technologies I Work With:
+I'm a seasoned backend developer based in **Skopje**, with over **15 years of experience** in creating efficient and scalable web solutions. I specialize in building robust REST APIs and high-performance backend systems.
 
-![PHP](https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php)
-![PHP](https://img.shields.io/badge/-PHPOOP-333333?style=for-the-badge&logo=php)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql)
-![Laravel](https://img.shields.io/badge/-LARAVEL-333333?style=for-the-badge&logo=laravel)
-![Docker](https://img.shields.io/badge/-DOCKER-333333?style=for-the-badge&logo=docker)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
-![HTML](https://img.shields.io/badge/-HTML-333333?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=css3)
-![bootstrap](https://img.shields.io/badge/-BOOTSTRAP-333333?style=for-the-badge&logo=bootstrap)
-![Git / GitHub](https://img.shields.io/badge/-Git/GitHub-333333?style=for-the-badge&logo=github)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb)
-![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
-![Nginx](https://img.shields.io/badge/-Nginx-333333?style=for-the-badge&logo=nginx)
-![Apache](https://img.shields.io/badge/-Apache-333333?style=for-the-badge&logo=apache)
-![Linux](https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux)
-![Bash](https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=gnu-bash)
-![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=for-the-badge&logo=jenkins)
-![Jira](https://img.shields.io/badge/-Jira-333333?style=for-the-badge&logo=jira)
-![Confluence](https://img.shields.io/badge/-Confluence-333333?style=for-the-badge&logo=confluence)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
-![CI/CD](https://img.shields.io/badge/-CI/CD-333333?style=for-the-badge&logo=jenkins)
-![Scrum](https://img.shields.io/badge/-Scrum-333333?style=for-the-badge&logo=agile)
-![DevOps](https://img.shields.io/badge/-DevOps-333333?style=for-the-badge&logo=devops)
-![Microservices](https://img.shields.io/badge/-Microservices-333333?style=for-the-badge&logo=microservices)
-![REST](https://img.shields.io/badge/-REST-333333?style=for-the-badge&logo=rest)
-![SOAP](https://img.shields.io/badge/-SOAP-333333?style=for-the-badge&logo=soap)
-![GraphQL](https://img.shields.io/badge/-GraphQL-333333?style=for-the-badge&logo=graphql)
-![WebSockets](https://img.shields.io/badge/-WebSockets-333333?style=for-the-badge&logo=websocket)
-![OAuth](https://img.shields.io/badge/-OAuth-333333?style=for-the-badge&logo=oauth)
-![YAML](https://img.shields.io/badge/-YAML-333333?style=for-the-badge&logo=yaml)
-![JSON](https://img.shields.io/badge/-JSON-333333?style=for-the-badge&logo=json)  
+</div>
 
+---
 
-![](https://github-readme-stats.vercel.app/api?username=kalimeromk&theme=dracula&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=kalimeromk&theme=dracula&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kalimeromk&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=445&langs_count=8)
+### 👨‍💻 About Me
 
+- 🎓 **Experience:** Dedicated over a decade to backend architecture and database optimization.
+- 💻 **Core Focus:** Building RESTful services using modern PHP frameworks (**Laravel, Yii 2, Slim 4**).
+- 🌟 **Skills:** Designing scalable APIs, server-side logic, and ensuring seamless integration across complex systems.
+- 🌐 **Passion:** Committed to continuous learning, keeping up with the latest backend technologies, DevOps practices, and Microservices architecture.
+- 🤝 **Collaboration:** Open to backend-focused projects, mentoring, and contributing to the tech community.
 
+---
 
+### 🔧 Technologies I Work With:
 
+<div align="center">
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=kalimeromk&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<img src="https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php" alt="PHP" />
+<img src="https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=gnu-bash" alt="Bash" />
 
-## 📫 Get in Touch:
+<br>
 
-- LinkedIn: https://www.linkedin.com/in/zoran-bogoevski/
-- Email: zbogoevski@gmail.com
+<img src="https://img.shields.io/badge/-LARAVEL-333333?style=for-the-badge&logo=laravel" alt="Laravel" />
+<img src="https://img.shields.io/badge/-Yii2-333333?style=for-the-badge&logo=yii" alt="Yii2" />
+<img src="https://img.shields.io/badge/-Slim_4-333333?style=for-the-badge&logo=php" alt="Slim 4" />
 
-Feel free to connect with me and explore my projects. I'm always open to networking and collaborating on interesting projects. Let's code something awesome together! 🚀
+<br>
 
-[![](https://visitcount.itsvg.in/api?id=kalimeromk&icon=0&color=6)](https://visitcount.itsvg.in)
+<img src="https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql" alt="MySQL" />
+<img src="https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb" alt="MongoDB" />
+<img src="https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis" alt="Redis" />
+
+<br>
+
+<img src="https://img.shields.io/badge/-DOCKER-333333?style=for-the-badge&logo=docker" alt="Docker" />
+<img src="https://img.shields.io/badge/-Nginx-333333?style=for-the-badge&logo=nginx" alt="Nginx" />
+<img src="https://img.shields.io/badge/-Apache-333333?style=for-the-badge&logo=apache" alt="Apache" />
+<img src="https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux" alt="Linux" />
+<img src="https://img.shields.io/badge/-Jenkins-333333?style=for-the-badge&logo=jenkins" alt="Jenkins" />
+<img src="https://img.shields.io/badge/-Git/GitHub-333333?style=for-the-badge&logo=github" alt="Git" />
+<img src="https://img.shields.io/badge/-CI/CD-333333?style=for-the-badge&logo=jenkins" alt="CICD" />
+
+<br>
+
+<img src="https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman" alt="Postman" />
+<img src="https://img.shields.io/badge/-Jira-333333?style=for-the-badge&logo=jira" alt="Jira" />
+<img src="https://img.shields.io/badge/-Confluence-333333?style=for-the-badge&logo=confluence" alt="Confluence" />
+<img src="https://img.shields.io/badge/-Scrum-333333?style=for-the-badge&logo=agile" alt="Scrum" />
+<img src="https://img.shields.io/badge/-Microservices-333333?style=for-the-badge&logo=microservices" alt="Microservices" />
+<img src="https://img.shields.io/badge/-REST-333333?style=for-the-badge&logo=rest" alt="REST" />
+<img src="https://img.shields.io/badge/-JSON-333333?style=for-the-badge&logo=json" alt="JSON" />
+<img src="https://img.shields.io/badge/-GraphQL-333333?style=for-the-badge&logo=graphql" alt="GraphQL" />
+
+</div>
+
+---
+
+### 🏆 Top Contributions
+<div align="center">
+<img src="https://github-contributor-stats.vercel.app/api?username=kalimeromk&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" alt="Top Contributions" />
+</div>
+
+---
+
+### 📫 Get in Touch:
+
+<div align="center">
+
+Feel free to connect with me and explore my projects. Let's code something awesome together! 🚀
+
+<a href="https://www.linkedin.com/in/zoran-bogoevski/">
+  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+<a href="mailto:zbogoevski@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836.svg?logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+</div>
