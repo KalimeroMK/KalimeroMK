@@ -29,6 +29,13 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ---
 
+### 🧰 My Starter Kits
+
+- [api-sanctum-boilerplate](https://github.com/KalimeroMK/api-sanctum-boilerplate) — Laravel 12 API starter kit: Sanctum auth, Spatie permissions, tests included
+- [Slim4MVC](https://github.com/KalimeroMK/Slim4MVC) — Slim 4 MVC starter: Docker setup, Illuminate Database migrations, JWT, PHPStan clean
+
+---
+
 ### 🔧 Technologies I Work With:
 
 <div align="center">
