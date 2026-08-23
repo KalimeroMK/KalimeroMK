@@ -90,6 +90,9 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 Feel free to connect with me and explore my projects. Let's code something awesome together! 🚀
 
+<a href="https://zorandev.info">
+  <img src="https://img.shields.io/badge/zorandev.info-%23000000.svg?logo=googlechrome&logoColor=white" alt="Website" />
+</a>
 <a href="https://www.linkedin.com/in/zoran-bogoevski/">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
