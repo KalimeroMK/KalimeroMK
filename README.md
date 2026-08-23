@@ -2,9 +2,9 @@
 
 # Hi there, I'm Zoran Bogoevski! 👋
 
-### 🚀 Senior Backend Developer | REST API Architect
+### 🚀 Software Architect & Technical Lead | Modern PHP (8.5) & Laravel
 
-I'm a seasoned backend developer based in **Skopje**, with over **15 years of experience** in creating efficient and scalable web solutions. I specialize in building robust REST APIs and high-performance backend systems.
+An accomplished Software Architect based in **Skopje**, with over **15 years of experience** bridging the gap between legacy stability and bleeding-edge innovation. I design high-performance, scalable SaaS solutions — and I believe **quality speeds up delivery**.
 
 </div>
 
@@ -12,11 +12,12 @@ I'm a seasoned backend developer based in **Skopje**, with over **15 years of ex
 
 ### 👨‍💻 About Me
 
-- 🎓 **Experience:** Dedicated over a decade to backend architecture and database optimization.
-- 💻 **Core Focus:** Building RESTful services using modern PHP frameworks (**Laravel, Yii 2, Slim 4**).
-- 🌟 **Skills:** Designing scalable APIs, server-side logic, and ensuring seamless integration across complex systems.
-- 🌐 **Passion:** Committed to continuous learning, keeping up with the latest backend technologies, DevOps practices, and Microservices architecture.
-- 🤝 **Collaboration:** Open to backend-focused projects, mentoring, and contributing to the tech community.
+- 🏗️ **Currently:** Leading the architecture of a large-scale BI platform handling **90M+ records** — Domain-Driven Modular Monolith, 100% test coverage (Pest), strictly typed.
+- 💻 **Core Focus:** High-performance backend systems with **Modern PHP, Laravel**, Elasticsearch and Redis.
+- 📐 **Technical Strategy:** Breaking down complex business requirements into modular, maintainable architectures (DDD, Actions, DTOs).
+- ⚡ **Performance Engineering:** Scaling applications on AWS and Docker, optimizing queries for massive datasets.
+- 👥 **Leadership:** Agile Team Lead fostering mentorship culture — setting standards (CI/CD, Static Analysis) that elevate the whole team's output.
+- 🎯 **Open to:** Principal Software Developer or Senior Architect roles.
 
 ---
 
