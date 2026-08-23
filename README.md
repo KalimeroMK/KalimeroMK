@@ -26,6 +26,7 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 - [laravel/framework#61285](https://github.com/laravel/framework/pull/61285) — Fix route name lost when `RouteRegistrar` action is not callable (Laravel 13)
 - [yiisoft/db#1190](https://github.com/yiisoft/db/pull/1190) — Index schema metadata by table name
 - [yiisoft/yii-sentry#52](https://github.com/yiisoft/yii-sentry/pull/52) — Sentry cron monitoring via check-ins
+- [yiisoft/db-migration#356](https://github.com/yiisoft/db-migration/pull/356) — Friendly error with ready-to-use `cp` command when running `yii-db-migration` without config
 
 ---
 
