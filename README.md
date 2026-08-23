@@ -20,15 +20,11 @@ I'm a seasoned backend developer based in **Skopje**, with over **15 years of ex
 
 ---
 
-### 🌍 Open Source Contributions
+### 🌍 Last Open Source Contributions
 
-**Merged:**
 - [laravel/framework#61285](https://github.com/laravel/framework/pull/61285) — Fix route name lost when `RouteRegistrar` action is not callable (Laravel 13)
 - [yiisoft/db#1190](https://github.com/yiisoft/db/pull/1190) — Index schema metadata by table name
-- [yiisoft/db#1195](https://github.com/yiisoft/db/pull/1195) — Don't add `composer.lock` to Docker image
 - [yiisoft/yii-sentry#52](https://github.com/yiisoft/yii-sentry/pull/52) — Sentry cron monitoring via check-ins
-
-**In review:** [yiisoft/db](https://github.com/yiisoft/db/pulls/KalimeroMK) · [yiisoft/yii2](https://github.com/yiisoft/yii2/pulls/KalimeroMK) · [yiisoft/db-migration](https://github.com/yiisoft/db-migration/pulls/KalimeroMK)
 
 ---
 
