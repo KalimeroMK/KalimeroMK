@@ -66,7 +66,11 @@ I'm a seasoned backend developer based in **Skopje**, with over **15 years of ex
 
 ### 🏆 Top Contributions
 <div align="center">
-<img src="https://github-contributor-stats.vercel.app/api?username=kalimeromk&limit=5&theme=dark&combine_all_yearly_contributions=true" width="100%" alt="Top Contributions" />
+<img src="profile-summary-card-output/dark/0-profile-details.svg" width="100%" alt="Profile Details" />
+<img src="profile-summary-card-output/dark/1-repos-per-language.svg" width="49%" alt="Repos per Language" />
+<img src="profile-summary-card-output/dark/2-most-commit-language.svg" width="49%" alt="Most Commit Language" />
+<img src="profile-summary-card-output/dark/3-stats.svg" width="49%" alt="Stats" />
+<img src="profile-summary-card-output/dark/4-productive-time.svg" width="49%" alt="Productive Time" />
 </div>
 
 ---
