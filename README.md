@@ -34,7 +34,6 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 <div align="center">
 
 <img src="https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php" alt="PHP" />
-<img src="https://img.shields.io/badge/-Bash-333333?style=for-the-badge&logo=gnu-bash" alt="Bash" />
 
 <br>
 
@@ -51,12 +50,13 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 <br>
 
 <img src="https://img.shields.io/badge/-DOCKER-333333?style=for-the-badge&logo=docker" alt="Docker" />
+<img src="https://img.shields.io/badge/-Git/GitHub-333333?style=for-the-badge&logo=github" alt="Git" />
+<img src="https://img.shields.io/badge/-GitHub_Actions-333333?style=for-the-badge&logo=githubactions" alt="GitHub Actions" />
+<img src="https://img.shields.io/badge/-Jenkins-333333?style=for-the-badge&logo=jenkins" alt="Jenkins" />
+<img src="https://img.shields.io/badge/-CI/CD-333333?style=for-the-badge&logo=jenkins" alt="CICD" />
 <img src="https://img.shields.io/badge/-Nginx-333333?style=for-the-badge&logo=nginx" alt="Nginx" />
 <img src="https://img.shields.io/badge/-Apache-333333?style=for-the-badge&logo=apache" alt="Apache" />
 <img src="https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux" alt="Linux" />
-<img src="https://img.shields.io/badge/-Jenkins-333333?style=for-the-badge&logo=jenkins" alt="Jenkins" />
-<img src="https://img.shields.io/badge/-Git/GitHub-333333?style=for-the-badge&logo=github" alt="Git" />
-<img src="https://img.shields.io/badge/-CI/CD-333333?style=for-the-badge&logo=jenkins" alt="CICD" />
 
 <br>
 
