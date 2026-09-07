@@ -23,7 +23,7 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ### 🌍 Last Open Source Contributions
 
-- [yiisoft/db#1196](https://github.com/yiisoft/db/pull/1196) — Add `SerializationFailureException` for SQLSTATE 40001 serialization/deadlock failures
+- [yiisoft/db#1196](https://github.com/yiisoft/db/pull/1196) — Add `SerializationFailureException` for SQLSTATE 40001
 - [yiisoft/http-middleware#31](https://github.com/yiisoft/http-middleware/pull/31) — Add ETag value normalization to `HttpCacheMiddleware`
 - [laravel/framework#61285](https://github.com/laravel/framework/pull/61285) — Fix route name lost when `RouteRegistrar` action is not callable (Laravel 13)
 - [yiisoft/db#1190](https://github.com/yiisoft/db/pull/1190) — Index schema metadata by table name
