@@ -23,6 +23,7 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ### 🌍 Last Open Source Contributions
 
+- [yiisoft/router#296](https://github.com/yiisoft/router/pull/296) — Allow backed enumerations as route name in `Route::name()`
 - [yiisoft/db#1196](https://github.com/yiisoft/db/pull/1196) — Add `SerializationFailureException` for SQLSTATE 40001
 - [yiisoft/http-middleware#31](https://github.com/yiisoft/http-middleware/pull/31) — Add ETag value normalization to `HttpCacheMiddleware`
 - [laravel/framework#61285](https://github.com/laravel/framework/pull/61285) — Fix route name lost when `RouteRegistrar` action is not callable (Laravel 13)
