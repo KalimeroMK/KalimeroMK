@@ -42,46 +42,14 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ### 🔧 Technologies I Work With:
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php" alt="PHP" />
-
-<br>
-
-<img src="https://img.shields.io/badge/-LARAVEL-333333?style=for-the-badge&logo=laravel" alt="Laravel" />
-<img src="https://img.shields.io/badge/-Yii2-333333?style=for-the-badge&logo=yii" alt="Yii2" />
-<img src="https://img.shields.io/badge/-Slim_4-333333?style=for-the-badge&logo=php" alt="Slim 4" />
-
-<br>
-
-<img src="https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql" alt="MySQL" />
-<img src="https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb" alt="MongoDB" />
-<img src="https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis" alt="Redis" />
-
-<br>
-
-<img src="https://img.shields.io/badge/-DOCKER-333333?style=for-the-badge&logo=docker" alt="Docker" />
-<img src="https://img.shields.io/badge/-Git/GitHub-333333?style=for-the-badge&logo=github" alt="Git" />
-<img src="https://img.shields.io/badge/-GitHub_Actions-333333?style=for-the-badge&logo=githubactions" alt="GitHub Actions" />
-<img src="https://img.shields.io/badge/-Jenkins-333333?style=for-the-badge&logo=jenkins" alt="Jenkins" />
-<img src="https://img.shields.io/badge/-CI/CD-333333?style=for-the-badge&logo=jenkins" alt="CICD" />
-<img src="https://img.shields.io/badge/-Nginx-333333?style=for-the-badge&logo=nginx" alt="Nginx" />
-<img src="https://img.shields.io/badge/-Apache-333333?style=for-the-badge&logo=apache" alt="Apache" />
-<img src="https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux" alt="Linux" />
-
-<br>
-
-<img src="https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman" alt="Postman" />
-<img src="https://img.shields.io/badge/-Jira-333333?style=for-the-badge&logo=jira" alt="Jira" />
-<img src="https://img.shields.io/badge/-Confluence-333333?style=for-the-badge&logo=confluence" alt="Confluence" />
-<img src="https://img.shields.io/badge/-Scrum-333333?style=for-the-badge&logo=agile" alt="Scrum" />
-<img src="https://img.shields.io/badge/-Microservices-333333?style=for-the-badge&logo=microservices" alt="Microservices" />
-<img src="https://img.shields.io/badge/-REST-333333?style=for-the-badge&logo=rest" alt="REST" />
-<img src="https://img.shields.io/badge/-JSON-333333?style=for-the-badge&logo=json" alt="JSON" />
-<img src="https://img.shields.io/badge/-GraphQL-333333?style=for-the-badge&logo=graphql" alt="GraphQL" />
-
-</div>
-
+| | |
+|---|---|
+| **Backend** | <img src="https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php" alt="PHP" /> <img src="https://img.shields.io/badge/-Laravel-333333?style=for-the-badge&logo=laravel" alt="Laravel" /> <img src="https://img.shields.io/badge/-Yii-333333?style=for-the-badge&logo=yii" alt="Yii" /> <img src="https://img.shields.io/badge/-Slim_4-333333?style=for-the-badge&logo=php" alt="Slim 4" /> |
+| **Architecture** | <img src="https://img.shields.io/badge/-DDD-333333?style=for-the-badge" alt="DDD" /> <img src="https://img.shields.io/badge/-Modular_Monolith-333333?style=for-the-badge" alt="Modular Monolith" /> <img src="https://img.shields.io/badge/-SOLID-333333?style=for-the-badge" alt="SOLID" /> <img src="https://img.shields.io/badge/-REST-333333?style=for-the-badge&logo=openapiinitiative" alt="REST" /> <img src="https://img.shields.io/badge/-GraphQL-333333?style=for-the-badge&logo=graphql" alt="GraphQL" /> <img src="https://img.shields.io/badge/-Microservices-333333?style=for-the-badge" alt="Microservices" /> |
+| **Data** | <img src="https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql" alt="MySQL" /> <img src="https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb" alt="MongoDB" /> <img src="https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis" alt="Redis" /> <img src="https://img.shields.io/badge/-Elasticsearch-333333?style=for-the-badge&logo=elasticsearch" alt="Elasticsearch" /> |
+| **Quality** | <img src="https://img.shields.io/badge/-Pest-333333?style=for-the-badge" alt="Pest" /> <img src="https://img.shields.io/badge/-PHPUnit-333333?style=for-the-badge" alt="PHPUnit" /> <img src="https://img.shields.io/badge/-PHPStan-333333?style=for-the-badge" alt="PHPStan" /> <img src="https://img.shields.io/badge/-Laravel_Pint-333333?style=for-the-badge" alt="Laravel Pint" /> <img src="https://img.shields.io/badge/-Rector-333333?style=for-the-badge" alt="Rector" /> |
+| **DevOps** | <img src="https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker" alt="Docker" /> <img src="https://img.shields.io/badge/-GitHub_Actions-333333?style=for-the-badge&logo=githubactions" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/-Jenkins-333333?style=for-the-badge&logo=jenkins" alt="Jenkins" /> <img src="https://img.shields.io/badge/-AWS-333333?style=for-the-badge" alt="AWS" /> <img src="https://img.shields.io/badge/-Nginx-333333?style=for-the-badge&logo=nginx" alt="Nginx" /> <img src="https://img.shields.io/badge/-Apache-333333?style=for-the-badge&logo=apache" alt="Apache" /> <img src="https://img.shields.io/badge/-Linux-333333?style=for-the-badge&logo=linux" alt="Linux" /> |
+| **Integrations** | <img src="https://img.shields.io/badge/-Stripe-333333?style=for-the-badge&logo=stripe" alt="Stripe" /> <img src="https://img.shields.io/badge/-PayPal-333333?style=for-the-badge&logo=paypal" alt="PayPal" /> <img src="https://img.shields.io/badge/-Casys-333333?style=for-the-badge" alt="Casys" /> <img src="https://img.shields.io/badge/-Halkbank-333333?style=for-the-badge" alt="Halkbank" /> |
 ---
 
 ### 🏆 Top Contributions
