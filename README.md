@@ -23,6 +23,7 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ### 🌍 Last Open Source Contributions
 
+- [yiisoft/db#1199](https://github.com/yiisoft/db/pull/1199) — Add `UuidValue` for portable UUID binding, with driver builders in [db-mysql#482](https://github.com/yiisoft/db-mysql/pull/482), [db-sqlite#432](https://github.com/yiisoft/db-sqlite/pull/432) and [db-oracle#411](https://github.com/yiisoft/db-oracle/pull/411)
 - [yiisoft/router#296](https://github.com/yiisoft/router/pull/296) — Allow backed enumerations as route name in `Route::name()`
 - [yiisoft/db#1196](https://github.com/yiisoft/db/pull/1196) — Add `SerializationFailureException` for SQLSTATE 40001
 - [yiisoft/http-middleware#31](https://github.com/yiisoft/http-middleware/pull/31) — Add ETag value normalization to `HttpCacheMiddleware`
