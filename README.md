@@ -23,6 +23,7 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ### 🌍 Last Open Source Contributions
 
+- [symfony/symfony#66211](https://github.com/symfony/symfony/pull/66211) — [KeyManagement] Let `store.max_age` express "never rotate" with `null`
 - [symfony/symfony#66205](https://github.com/symfony/symfony/pull/66205) — Review Macedonian (mk) translations for Validator, Form and Security
 - [php/frankenphp#2615](https://github.com/php/frankenphp/pull/2615) — Official [Yii 3 page](https://frankenphp.dev/docs/yii3/) for the FrankenPHP docs: Docker image, local Caddyfile setup and worker mode via `yiisoft/yii-runner-frankenphp`
 - [yiisoft/db#1199](https://github.com/yiisoft/db/pull/1199) — Add `UuidValue` for portable UUID binding, with driver builders in [db-mysql#482](https://github.com/yiisoft/db-mysql/pull/482), [db-sqlite#432](https://github.com/yiisoft/db-sqlite/pull/432) and [db-oracle#411](https://github.com/yiisoft/db-oracle/pull/411)
