@@ -2,7 +2,7 @@
 
 # Hi there, I'm Zoran Bogoevski! 👋
 
-### 🚀 Software Architect & Technical Lead | Modern PHP — Laravel, Symfony & Yii
+### 🚀 Software Architect & Technical Lead | Modern PHP — Laravel, Yii & Symfony
 
 An accomplished Software Architect based in **Skopje**, with over **15 years of experience** bridging the gap between legacy stability and bleeding-edge innovation. I design high-performance, scalable SaaS solutions — and I believe **quality speeds up delivery**.
 
