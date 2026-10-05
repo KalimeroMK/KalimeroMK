@@ -23,6 +23,7 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ### 🌍 Last Open Source Contributions
 
+- [symfony/symfony#66622](https://github.com/symfony/symfony/pull/66622) — [Console] Support lists of backed enums in `#[Argument]` and `#[Option]` via variadic parameters and `list<Enum>` PHPDoc types
 - [symfony/symfony#66620](https://github.com/symfony/symfony/pull/66620) — [Process] Fix `waitUntil()` missing output read by `isRunning()` on Windows
 - [symfony/symfony#66211](https://github.com/symfony/symfony/pull/66211) — [KeyManagement] Let `store.max_age` express "never rotate" with `null`
 - [symfony/symfony#66205](https://github.com/symfony/symfony/pull/66205) — Review Macedonian (mk) translations for Validator, Form and Security
