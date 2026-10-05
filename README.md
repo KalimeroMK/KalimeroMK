@@ -2,7 +2,7 @@
 
 # Hi there, I'm Zoran Bogoevski! 👋
 
-### 🚀 Software Architect & Technical Lead | Modern PHP & Laravel
+### 🚀 Software Architect & Technical Lead | Modern PHP — Laravel, Symfony & Yii
 
 An accomplished Software Architect based in **Skopje**, with over **15 years of experience** bridging the gap between legacy stability and bleeding-edge innovation. I design high-performance, scalable SaaS solutions — and I believe **quality speeds up delivery**.
 
@@ -49,7 +49,7 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 | | |
 |---|---|
-| **Backend** | <img src="https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php" alt="PHP" /> <img src="https://img.shields.io/badge/-Laravel-333333?style=for-the-badge&logo=laravel" alt="Laravel" /> <img src="https://img.shields.io/badge/-Yii-333333?style=for-the-badge&logo=yii" alt="Yii" /> <img src="https://img.shields.io/badge/-Slim_4-333333?style=for-the-badge&logo=php" alt="Slim 4" /> |
+| **Backend** | <img src="https://img.shields.io/badge/-PHP-333333?style=for-the-badge&logo=php" alt="PHP" /> <img src="https://img.shields.io/badge/-Laravel-333333?style=for-the-badge&logo=laravel" alt="Laravel" /> <img src="https://img.shields.io/badge/-Yii-333333?style=for-the-badge&logo=yii" alt="Yii" /> <img src="https://img.shields.io/badge/-Symfony-333333?style=for-the-badge&logo=symfony" alt="Symfony" /> <img src="https://img.shields.io/badge/-Slim_4-333333?style=for-the-badge&logo=php" alt="Slim 4" /> |
 | **Architecture** | <img src="https://img.shields.io/badge/-DDD-333333?style=for-the-badge" alt="DDD" /> <img src="https://img.shields.io/badge/-Modular_Monolith-333333?style=for-the-badge" alt="Modular Monolith" /> <img src="https://img.shields.io/badge/-SOLID-333333?style=for-the-badge" alt="SOLID" /> <img src="https://img.shields.io/badge/-REST-333333?style=for-the-badge&logo=openapiinitiative" alt="REST" /> <img src="https://img.shields.io/badge/-GraphQL-333333?style=for-the-badge&logo=graphql" alt="GraphQL" /> <img src="https://img.shields.io/badge/-Microservices-333333?style=for-the-badge" alt="Microservices" /> |
 | **Data** | <img src="https://img.shields.io/badge/-MySQL-333333?style=for-the-badge&logo=mysql" alt="MySQL" /> <img src="https://img.shields.io/badge/-MongoDB-333333?style=for-the-badge&logo=mongodb" alt="MongoDB" /> <img src="https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis" alt="Redis" /> <img src="https://img.shields.io/badge/-Elasticsearch-333333?style=for-the-badge&logo=elasticsearch" alt="Elasticsearch" /> |
 | **Quality** | <img src="https://img.shields.io/badge/-Pest-333333?style=for-the-badge" alt="Pest" /> <img src="https://img.shields.io/badge/-PHPUnit-333333?style=for-the-badge" alt="PHPUnit" /> <img src="https://img.shields.io/badge/-PHPStan-333333?style=for-the-badge" alt="PHPStan" /> <img src="https://img.shields.io/badge/-Laravel_Pint-333333?style=for-the-badge" alt="Laravel Pint" /> <img src="https://img.shields.io/badge/-Rector-333333?style=for-the-badge" alt="Rector" /> |
