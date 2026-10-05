@@ -23,6 +23,7 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ### 🌍 Last Open Source Contributions
 
+- [symfony/symfony#66620](https://github.com/symfony/symfony/pull/66620) — [Process] Fix `waitUntil()` missing output read by `isRunning()` on Windows
 - [symfony/symfony#66211](https://github.com/symfony/symfony/pull/66211) — [KeyManagement] Let `store.max_age` express "never rotate" with `null`
 - [symfony/symfony#66205](https://github.com/symfony/symfony/pull/66205) — Review Macedonian (mk) translations for Validator, Form and Security
 - [php/frankenphp#2615](https://github.com/php/frankenphp/pull/2615) — Official [Yii 3 page](https://frankenphp.dev/docs/yii3/) for the FrankenPHP docs: Docker image, local Caddyfile setup and worker mode via `yiisoft/yii-runner-frankenphp`
