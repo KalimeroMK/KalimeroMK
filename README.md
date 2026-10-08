@@ -23,6 +23,7 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ### 🌍 Last Open Source Contributions
 
+- [symfony/symfony#66696](https://github.com/symfony/symfony/pull/66696) — [Process] Don't let inherited `SYMFONY_DOTENV_VARS` override explicitly passed env vars
 - [symfony/symfony#66622](https://github.com/symfony/symfony/pull/66622) — [Console] Support lists of backed enums in `#[Argument]` and `#[Option]` via variadic parameters and `list<Enum>` PHPDoc types
 - [symfony/symfony#66620](https://github.com/symfony/symfony/pull/66620) — [Process] Fix `waitUntil()` missing output read by `isRunning()` on Windows
 - [symfony/symfony#66211](https://github.com/symfony/symfony/pull/66211) — [KeyManagement] Let `store.max_age` express "never rotate" with `null`
