@@ -50,6 +50,7 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ### 🧰 My Starter Kits
 
+- [Modular-Yii3](https://github.com/KalimeroMK/Modular-Yii3) — Yii3 starter with a modular, service-oriented layout: describe a module in `modules.yaml` and one command writes the model, repository, service, DTOs, HTTP actions, routes, DI wiring, migration and tests
 - [Modular-Laravel](https://github.com/KalimeroMK/Modular-Laravel) — Laravel modular architecture & SOA starter for API-first applications
 - [Slim4MVC](https://github.com/KalimeroMK/Slim4MVC) — Slim 4 MVC starter: Docker setup, Illuminate Database migrations, JWT, PHPStan clean
 
