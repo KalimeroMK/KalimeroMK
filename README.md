@@ -23,6 +23,7 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ### 🌍 Last Open Source Contributions
 
+- [symfony/symfony#66782](https://github.com/symfony/symfony/pull/66782) — [Scheduler] Add a `stamps` option to `#[AsCronTask]` and `#[AsPeriodicTask]`, so a scheduled task can carry Messenger stamps
 - [symfony/symfony#66781](https://github.com/symfony/symfony/pull/66781) — [Scheduler] Look inside the `Envelope` when describing a task, so a wrapped message can use hashed cron expressions and `debug:scheduler` names the task
 - [symfony/symfony#66696](https://github.com/symfony/symfony/pull/66696) — [Process] Don't let inherited `SYMFONY_DOTENV_VARS` override explicitly passed env vars
 - [symfony/symfony#66622](https://github.com/symfony/symfony/pull/66622) — [Console] Support lists of backed enums in `#[Argument]` and `#[Option]` via variadic parameters and `list<Enum>` PHPDoc types
