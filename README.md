@@ -21,6 +21,12 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ---
 
+### 📦 Packages
+
+- [yiisoft/scheduler](https://github.com/yiisoft/scheduler) — Recurring tasks and cron-style scheduling for PHP: one cron entry or a long-running worker runs the due tasks, with missed-run catch-up, overlap prevention and failure handling. Written by me and adopted by the Yii organization.
+
+---
+
 ### 🌍 Last Open Source Contributions
 
 - [symfony/symfony#66782](https://github.com/symfony/symfony/pull/66782) — [Scheduler] Add a `stamps` option to `#[AsCronTask]` and `#[AsPeriodicTask]`, so a scheduled task can carry Messenger stamps
