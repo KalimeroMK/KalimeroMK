@@ -29,6 +29,7 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ### 🌍 Last Open Source Contributions
 
+- [symfony/symfony#66797](https://github.com/symfony/symfony/pull/66797) — [Scheduler] Add `ExcludeTimeOfDayTrigger`, so a recurring task can skip a daily time window such as a nightly maintenance or backup window
 - [symfony/symfony#66782](https://github.com/symfony/symfony/pull/66782) — [Scheduler] Add a `stamps` option to `#[AsCronTask]` and `#[AsPeriodicTask]`, so a scheduled task can carry Messenger stamps
 - [symfony/symfony#66781](https://github.com/symfony/symfony/pull/66781) — [Scheduler] Look inside the `Envelope` when describing a task, so a wrapped message can use hashed cron expressions and `debug:scheduler` names the task
 - [symfony/symfony#66696](https://github.com/symfony/symfony/pull/66696) — [Process] Don't let inherited `SYMFONY_DOTENV_VARS` override explicitly passed env vars
