@@ -28,6 +28,8 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ### 🌍 Last Open Source Contributions
 
+- [symfony/symfony#67201](https://github.com/symfony/symfony/pull/67201) — [ErrorHandler] Report attributes whose class does not exist in or below the namespace they are used in, so a forgotten `use` statement no longer leaves the attribute silently doing nothing
+- [yiisoft/active-record#591](https://github.com/yiisoft/active-record/pull/591) — Add `LazyLoadGuard` and `LazyLoadGuardTrait` to detect N+1 queries: a relation lazy-loaded by a second record of the same result set is logged, or throws in strict mode, naming the relation to eager load
 - [symfony/symfony#66797](https://github.com/symfony/symfony/pull/66797) — [Scheduler] Add `ExcludeTimeOfDayTrigger`, so a recurring task can skip a daily time window such as a nightly maintenance or backup window
 - [symfony/symfony#66782](https://github.com/symfony/symfony/pull/66782) — [Scheduler] Add a `stamps` option to `#[AsCronTask]` and `#[AsPeriodicTask]`, so a scheduled task can carry Messenger stamps
 - [symfony/symfony#66781](https://github.com/symfony/symfony/pull/66781) — [Scheduler] Look inside the `Envelope` when describing a task, so a wrapped message can use hashed cron expressions and `debug:scheduler` names the task
