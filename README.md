@@ -28,6 +28,7 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ### 🌍 Last Open Source Contributions
 
+- [symfony/symfony#67865](https://github.com/symfony/symfony/pull/67865) — [Form] Only skip the constraints when a `validation_groups` callable returns `false`, so a child whose transformation failed still reports its error
 - [symfony/symfony#67693](https://github.com/symfony/symfony/pull/67693) — [HttpClient] Regression test for `Psr18Client` with a traced client
 - [symfony/symfony#67201](https://github.com/symfony/symfony/pull/67201) — [ErrorHandler] Report attributes whose class does not exist in or below the namespace they are used in, so a forgotten `use` statement no longer leaves the attribute silently doing nothing
 - [yiisoft/active-record#591](https://github.com/yiisoft/active-record/pull/591) — Add `LazyLoadGuard` and `LazyLoadGuardTrait` to detect N+1 queries: a relation lazy-loaded by a second record of the same result set is logged, or throws in strict mode, naming the relation to eager load
