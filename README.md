@@ -28,6 +28,7 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ### 🌍 Last Open Source Contributions
 
+- [symfony/symfony#67944](https://github.com/symfony/symfony/pull/67944) — [HttpKernel] Release the cache lock when a revalidated response is not stored, which in a long-running worker kept the lock until a restart and answered every other worker with a 503
 - [laravel/framework#62345](https://github.com/laravel/framework/pull/62345) — Respect `Model::preventLazyLoading()` when streaming models with `cursor()`, which used to let strict mode slip
 - [symfony/symfony#67915](https://github.com/symfony/symfony/pull/67915) — [Finder] Fix three bracket expressions `Glob::toRegex()` got wrong, two of which compiled to a regex PCRE refuses
 - [symfony/symfony#67910](https://github.com/symfony/symfony/pull/67910) — [HttpKernel] Regression tests for the `allowed_classes` guards on the three cache files the kernel unserializes
