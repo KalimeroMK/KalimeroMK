@@ -28,6 +28,9 @@ An accomplished Software Architect based in **Skopje**, with over **15 years of 
 
 ### 🌍 Last Open Source Contributions
 
+- [symfony/symfony#67915](https://github.com/symfony/symfony/pull/67915) — [Finder] Fix three bracket expressions `Glob::toRegex()` got wrong, two of which compiled to a regex PCRE refuses
+- [symfony/symfony#67910](https://github.com/symfony/symfony/pull/67910) — [HttpKernel] Regression tests for the `allowed_classes` guards on the three cache files the kernel unserializes
+- [symfony/symfony#67906](https://github.com/symfony/symfony/pull/67906) — [Messenger] Regression test for `setup()` replacing the Doctrine transport's indexes on a table older than the composite one
 - [symfony/symfony#67865](https://github.com/symfony/symfony/pull/67865) — [Form] Only skip the constraints when a `validation_groups` callable returns `false`, so a child whose transformation failed still reports its error
 - [symfony/symfony#67693](https://github.com/symfony/symfony/pull/67693) — [HttpClient] Regression test for `Psr18Client` with a traced client
 - [symfony/symfony#67201](https://github.com/symfony/symfony/pull/67201) — [ErrorHandler] Report attributes whose class does not exist in or below the namespace they are used in, so a forgotten `use` statement no longer leaves the attribute silently doing nothing
